@@ -1,0 +1,23 @@
+body {
+	background-color: white;
+	font-family: Consolas;
+ font-size: 15px;
+}
+.text {
+	  color: red;
+}
+.const a {
+	  color: crimson;
+}
+.const-zakon a {
+	  color: blue;
+}
+.codex a {
+	  color: navy;
+}
+.zakon a {
+	  color: green;
+}
+.decision a {
+   color: deeppink;
+}
