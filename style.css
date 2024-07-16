@@ -1,7 +1,7 @@
 body {
 	background-color: white;
 	font-family: Consolas;
-    font-size: 15px;
+        font-size: 15px;
 }
 .text {
 	color: red;
@@ -31,5 +31,5 @@ body {
 	color: maroon;
 }
 .decision a {
-    color: deeppink;
+	color: deeppink;
 }
